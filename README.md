@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone, I'm Emrecan Bilgin👋</h1>
 <h3 align="center">Here you can see the work I did to improve myself during my university years and the projects I made with my project friends, thank you for visiting my profile.</h3>
 
-//![1iP8oMhğğğ](https://user-images.githubusercontent.com/82042889/204557653-c2dcd06d-3935-49d0-bebb-865ba605ae23.gif)//
+
 
 
 <h3 align="left">Connect with me:</h3>
