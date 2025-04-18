@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, I'm Emrecan Bilgin👋</h1>
-<h3 align="center">Here you can see the work I did to improve myself during my university years and the projects I made with my project friends, thank you for visiting my profile.</h3>
+<h3 align="center"></h3>
 
 
 
